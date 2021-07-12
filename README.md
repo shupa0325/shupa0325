@@ -1,8 +1,48 @@
-- 👋 Hi, I’m Shupa
-- 👀 I’m interested in progaming
-- 🌱 I’m currently learning GoLang
+- 👋 Hi，我是 Shupa
+- 👀 我喜歡寫程式，但更喜歡打電動與耍廢
+- 🌱 我目前專職開發PHP以及GoLang
 
+****
 <!---
 shupa0325/shupa0325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- # 擅長程式語言
+- PHP
+- GoLang
+
+****
+
+* # 知識與工具
+
+- Redis
+- Mysql
+- GCP
+- Docker
+- Linux
+- 物件導向設計
+- 分散式系統架構
+- Git
+- 大量數據處理經驗
+- 資料庫結構設計與優化
+
+****
+- ## 成長歷程
+
+****
+- 於2016年6月畢業於 逢甲大學資訊工程學系
+
+ 在學期間主要對軟體工程很有興趣，主要偏向於Java程式語言以及oop的規劃
+，並且有涉略資料庫系統的設計與分析
+
+- 於畢業後隔周便加入中佑集團參與培訓成為工程師
+
+在加入時，學會了PHP，JS以及HTML等網頁技術，並在過程中增加技術的廣度與深度，例如程式架構的優化，快取技術的導入，分散式結構的設計，資料庫結構的細節。 
+
+- 於2019年初成為主任工程師
+
+在這一年，因技術的成熟與個人特質，開始正式擔任管理職的任務，也有權限去優化整套系統服務，這段期間，優化了整套服務系統，解決了大量數據造成的系統負擔，導入了更加完善的快取結構。並且重構整套注單資料庫系統服務。
+
+在此同時，還擔任單位內的技術指導以及人員培訓。
+
+- 2021年7月因個人追求，正式畢業於中佑集團技術相關公司。
