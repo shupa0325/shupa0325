@@ -51,3 +51,29 @@ You can click the Preview link to take a look at your changes.
 在此同時，還擔任單位內的技術指導以及人員培訓。
 
 - 2021年7月因個人追求，正式畢業於中佑集團技術相關公司。
+
+****
+
+- ## 專案開發經驗
+
+- 後端php laravel 及原生開發
+
+1. 大量排程寫入數據
+2. 高併發api請求
+3. 大量數據及LOG監控系統
+
+- 後端golang gin 開發
+
+1. 高併發數據處理
+
+- 快取系統設計
+
+- 億級數據資料庫架構設計
+
+- 分散式系統設計
+
+- Restful API 設計
+
+- gRPC API 設計
+
+- 服務轉GKE經驗
